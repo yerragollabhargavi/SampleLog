@@ -9,3 +9,4 @@ Files
 Files2
 
 Feature Login Commit
+Clone
